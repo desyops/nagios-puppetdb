@@ -70,6 +70,11 @@ may be different, so be prepared to tune the thresholds.
 
 ![check_puppetdb_queue](https://github.com/jasonhancock/nagios-puppetdb/raw/master/example-images/check_puppetdb_queue.png)
 
+COMPATABILITY:
+--------------
+
+These plugins use the stable query API version 3 and thus require PuppetDB >= 1.5.0.
+
 INSTALLATION:
 -------------
 
